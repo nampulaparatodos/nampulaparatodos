@@ -9,7 +9,7 @@
                 vendedor: "Aple Store NPL",
                 telefone: "+258847791199",
                 bairro: "Mercado Central",
-                imagem: "iphoneX.jpg"
+                imagem: "IphoneX.jpg"
             },
             {
                 id: 2,
@@ -20,7 +20,7 @@
                 vendedor: "Aple Store NPL",
                 telefone: "+258847791199",
                 bairro: "Mercado Central",
-                imagem: "iphone13.jpg"
+                imagem: "Iphone13.jpg"
             },
             {
                 id: 3,
@@ -75,7 +75,7 @@
                 vendedor: "Aple Store NPL",
                 telefone: "+258847791199",
                 bairro: "Mercado Central",
-                imagem: "iphone10.jpg"
+                imagem: "Iphone10.jpg"
             },
             {
                 id: 8,
@@ -240,7 +240,7 @@ window.addEventListener('DOMContentLoaded', () => {
         vendedor: "Helder Limao",
         telefone: "+258842223344",
         bairro: "Mercado Central",
-        imagem: "Pasta1000.jpg"
+        imagem: "pasta1000.jpg"
     }, 
     {id: 12,
         nome: "Pasta",
