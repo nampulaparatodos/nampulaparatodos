@@ -87,14 +87,14 @@
                 telefone: "+258847791199",
                 bairro: "Napipine",
                 imagem: "AparelhoTensaoArterial2000.jpg"
-            },
+            }
             
         ];
 
         // Categorias disponíveis
         const categorias = ["Todos", "Roupas", "Artesanato", "Sapatos", "Alimentos", "Acessórios"];
 
-        // Função para gerar os produtos
+        // gerar os produtos
         function gerarProdutos(produtosParaExibir) {
             const container = document.getElementById('container-produtos');
             container.innerHTML = '';
@@ -130,7 +130,7 @@
             });
         }
 
-        // Função para gerar as categorias
+        // Funçãogerar as categorias
         function gerarCategorias() {
             const container = document.getElementById('categorias-container');
             
