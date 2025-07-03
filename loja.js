@@ -212,147 +212,151 @@
   
 window.addEventListener('DOMContentLoaded', () => {
     produtos.push(
-       {
-        id: 9,
-        nome: "Bolo Caseiro",
-        categoria: "Alimentos",
-        preco: 200,
-        descricao: "",
-        vendedor: "Sabores de Domiltia",
-        telefone: "+258842223344",
-        bairro: "Mutaunha",
-        imagem: "bolo1.jpg"
-    },
-    {id: 10,
-        nome: "Tecno POP 9",
-        categoria: "Acessórios",
-        preco: 9000,
-        descricao: "Celular amado",
-        vendedor: "Aple Store NPL",
-        telefone: "+258842223344",
-        bairro: "Mercado Central",
-        imagem: "tecnopop9.jpg"
-    },    
-    {id: 11,
-        nome: "Pasta",
-        categoria: "Acessórios",
-        preco: 1000,
-        descricao: "",
-        vendedor: "Helder Limao",
-        telefone: "+258842223344",
-        bairro: "Mercado Central",
-        imagem: "pasta1000.jpg"
-    }, 
-    {id: 12,
-        nome: "Pasta",
-        categoria: "Acessórios",
-        preco: 1000,
-        descricao: "",
-        vendedor: "Helder Limao",
-        telefone: "+258842223344",
-        bairro: "Mercado Central",
-        imagem: "pasta10001.jpg"
-    }, 
-    {id: 13,
-        nome: "Pasta",
-        categoria: "Acessórios",
-        preco: 1500,
-        descricao: "",
-        vendedor: "Helder Limao",
-        telefone: "+258842223344",
-        bairro: "Mercado Central",
-        imagem: "Pasta1500.jpg"
-    }, 
-    {id: 14,
-        nome: "Pasta",
-        categoria: "Acessórios",
-        preco: 1500,
-        descricao: "",
-        vendedor: "Helder Limao",
-        telefone: "+258842223344",
-        bairro: "Mercado Central",
-        imagem: "Pasta15001.jpg"
-    },  
-  { 
-    id: 15,
-    nome: "Óculos",
-    categoria: "Acessórios",
-    preco: 850,
-    descricao: "",
-    vendedor: "Goodlife Glamour",
-    telefone: "+258847791199",
-    bairro: "Muhala Expansão",
-    imagem: "oculo.jpg"
-  },
-  { 
-    id: 16,
-    nome: "Óculos",
-    categoria: "Acessórios",
-    preco: 850,
-    descricao: "",
-    vendedor: "Goodlife Glamour",
-    telefone: "+258847791199",
-    bairro: "Muhala Expansão",
-    imagem: "oculo1.jpg"
-  },
-  { 
-    id: 17,
-    nome: "Óculos",
-    categoria: "Acessórios",
-    preco: 850,
-    descricao: "",
-    vendedor: "Goodlife Glamour",
-    telefone: "+258847791199",
-    bairro: "Muhala Expansão",
-    imagem: "oculo2.jpg"
-  },
-  { 
-    id: 18,
-    nome: "Óculos",
-    categoria: "Acessórios",
-    preco: 850,
-    descricao: "",
-    vendedor: "Goodlife Glamour",
-    telefone: "+258847791199",
-    bairro: "Muhala Expansão",
-    imagem: "oculo.jpg"
-  },
-  { 
-    id: 19,
-    nome: "Óculos",
-    categoria: "Acessórios",
-    preco: 850,
-    descricao: "",
-    vendedor: "Goodlife Glamour",
-    telefone: "+258847791199",
-    bairro: "Muhala Expansão",
-    imagem: "oculo3.jpg"
-  },
-  { 
-    id: 20,
-    nome: "Colar",
-    categoria: "Acessórios",
-    preco: 349,
-    descricao: "",
-    vendedor: "Goodlife Glamour",
-    telefone: "+258847791199",
-    bairro: "Muhala Expansão",
-    imagem: "colar.jpg"
-  },
-  { 
-    id: 21,
-    nome: "Colar",
-    categoria: "Acessórios",
-    preco: 349,
-    descricao: "",
-    vendedor: "Goodlife Glamour",
-    telefone: "+258847791199",
-    bairro: "Muhala Expansão",
-    imagem: "colar1.jpg"
-  },
-);
+        {
+            id: 9,
+            nome: "Bolo Caseiro",
+            categoria: "Alimentos",
+            preco: 200,
+            descricao: "",
+            vendedor: "Sabores de Domiltia",
+            telefone: "+258842223344",
+            bairro: "Mutaunha",
+            imagem: "bolo1.jpg"
+        },
+        {
+            id: 10,
+            nome: "Tecno POP 9",
+            categoria: "Acessórios",
+            preco: 9000,
+            descricao: "Celular amado",
+            vendedor: "Aple Store NPL",
+            telefone: "+258842223344",
+            bairro: "Mercado Central",
+            imagem: "tecnopop9.jpg"
+        },    
+        {
+            id: 11,
+            nome: "Pasta",
+            categoria: "Acessórios",
+            preco: 1000,
+            descricao: "",
+            vendedor: "Helder Limao",
+            telefone: "+258842223344",
+            bairro: "Mercado Central",
+            imagem: "pasta1000.jpg"
+        }, 
+        {
+            id: 12,
+            nome: "Pasta",
+            categoria: "Acessórios",
+            preco: 1000,
+            descricao: "",
+            vendedor: "Helder Limao",
+            telefone: "+258842223344",
+            bairro: "Mercado Central",
+            imagem: "pasta10001.jpg"
+        }, 
+        {
+            id: 13,
+            nome: "Pasta",
+            categoria: "Acessórios",
+            preco: 1500,
+            descricao: "",
+            vendedor: "Helder Limao",
+            telefone: "+258842223344",
+            bairro: "Mercado Central",
+            imagem: "Pasta1500.jpg"
+        }, 
+        {
+            id: 14,
+            nome: "Pasta",
+            categoria: "Acessórios",
+            preco: 1500,
+            descricao: "",
+            vendedor: "Helder Limao",
+            telefone: "+258842223344",
+            bairro: "Mercado Central",
+            imagem: "Pasta15001.jpg"
+        },  
+        { 
+            id: 15,
+            nome: "Óculos",
+            categoria: "Acessórios",
+            preco: 850,
+            descricao: "",
+            vendedor: "Goodlife Glamour",
+            telefone: "+258847791199",
+            bairro: "Muhala Expansão",
+            imagem: "oculo.jpg"
+        },
+        { 
+            id: 16,
+            nome: "Óculos",
+            categoria: "Acessórios",
+            preco: 850,
+            descricao: "",
+            vendedor: "Goodlife Glamour",
+            telefone: "+258847791199",
+            bairro: "Muhala Expansão",
+            imagem: "oculo1.jpg"
+        },
+        { 
+            id: 17,
+            nome: "Óculos",
+            categoria: "Acessórios",
+            preco: 850,
+            descricao: "",
+            vendedor: "Goodlife Glamour",
+            telefone: "+258847791199",
+            bairro: "Muhala Expansão",
+            imagem: "oculo2.jpg"
+        },
+        { 
+            id: 18,
+            nome: "Óculos",
+            categoria: "Acessórios",
+            preco: 850,
+            descricao: "",
+            vendedor: "Goodlife Glamour",
+            telefone: "+258847791199",
+            bairro: "Muhala Expansão",
+            imagem: "oculo.jpg"
+        },
+        { 
+            id: 19,
+            nome: "Óculos",
+            categoria: "Acessórios",
+            preco: 850,
+            descricao: "",
+            vendedor: "Goodlife Glamour",
+            telefone: "+258847791199",
+            bairro: "Muhala Expansão",
+            imagem: "oculo3.jpg"
+        },
+        { 
+            id: 20,
+            nome: "Colar",
+            categoria: "Acessórios",
+            preco: 349,
+            descricao: "",
+            vendedor: "Goodlife Glamour",
+            telefone: "+258847791199",
+            bairro: "Muhala Expansão",
+            imagem: "colar.jpg"
+        },
+        { 
+            id: 21,
+            nome: "Colar",
+            categoria: "Acessórios",
+            preco: 349,
+            descricao: "",
+            vendedor: "Goodlife Glamour",
+            telefone: "+258847791199",
+            bairro: "Muhala Expansão",
+            imagem: "colar1.jpg"
+        }
+    ); 
 
     gerarCategorias();
     gerarProdutos(produtos);
 });
-
