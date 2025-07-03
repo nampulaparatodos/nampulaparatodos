@@ -290,7 +290,7 @@ window.addEventListener('DOMContentLoaded', () => {
                 vendedor: "Goodlife Glamour",
                 telefone: "+258847791199",
                 bairro: "Muhala Expansão",
-                imagem: "oculo1.jpg 
+                imagem: "oculo1.jpg"
                   },
               { id: 17,
                 nome: "Óculos",
@@ -300,7 +300,7 @@ window.addEventListener('DOMContentLoaded', () => {
                 vendedor: "Goodlife Glamour",
                 telefone: "+258847791199",
                 bairro: "Muhala Expansão",
-                imagem: "oculo2.jpg
+                imagem: "oculo2.jpg"
                    
               },
                 { id: 18,
@@ -311,7 +311,7 @@ window.addEventListener('DOMContentLoaded', () => {
                 vendedor: "Goodlife Glamour",
                 telefone: "+258847791199",
                 bairro: "Muhala Expansão",
-                imagem: "oculo.jpg
+                imagem: "oculo.jpg"
                 },
               { id: 19,
                 nome: "Óculos",
@@ -321,7 +321,7 @@ window.addEventListener('DOMContentLoaded', () => {
                 vendedor: "Goodlife Glamour",
                 telefone: "+258847791199",
                 bairro: "Muhala Expansão",
-                imagem: "oculo3.jpg
+                imagem: "oculo3.jpg"
                  },
                { id: 20,
                 nome: "Colar",
@@ -331,7 +331,7 @@ window.addEventListener('DOMContentLoaded', () => {
                 vendedor: "Goodlife Glamour",
                 telefone: "+258847791199",
                 bairro: "Muhala Expansão",
-                imagem: "colar.jpg
+                imagem: "colar.jpg"
                },
               { id: 21,
                 nome: "Colar",
@@ -341,7 +341,7 @@ window.addEventListener('DOMContentLoaded', () => {
                 vendedor: "Goodlife Glamour",
                 telefone: "+258847791199",
                 bairro: "Muhala Expansão",
-                imagem: "colar1.jpg
+                imagem: "colar1.jpg"
                  },
 
     );
