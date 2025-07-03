@@ -272,6 +272,75 @@ window.addEventListener('DOMContentLoaded', () => {
         bairro: "Mercado Central",
         imagem: "Pasta15001.jpg"
     },    
+                { id: 15,
+                nome: "Óculos",
+                categoria: "Acessórios",
+                preco: 850,
+                descricao: "",
+                vendedor: "Goodlife Glamour",
+                telefone: "+258847791199",
+                bairro: "Muhala Expansão",
+                imagem: "oculo.jpg"
+            },    { id: 16,
+                nome: "Óculos",
+                categoria: "Acessórios",
+                preco: 850,
+                descricao: "",
+                vendedor: "Goodlife Glamour",
+                telefone: "+258847791199",
+                bairro: "Muhala Expansão",
+                imagem: "oculo1.jpg 
+                  },{ id: 17,
+                nome: "Óculos",
+                categoria: "Acessórios",
+                preco: 850,
+                descricao: "",
+                vendedor: "Goodlife Glamour",
+                telefone: "+258847791199",
+                bairro: "Muhala Expansão",
+                imagem: "oculo2.jpg
+                    },
+                { id: 18,
+                nome: "Óculos",
+                categoria: "Acessórios",
+                preco: 850,
+                descricao: "",
+                vendedor: "Goodlife Glamour",
+                telefone: "+258847791199",
+                bairro: "Muhala Expansão",
+                imagem: "oculo.jpg
+                },{ id: 19,
+                nome: "Óculos",
+                categoria: "Acessórios",
+                preco: 850,
+                descricao: "",
+                vendedor: "Goodlife Glamour",
+                telefone: "+258847791199",
+                bairro: "Muhala Expansão",
+                imagem: "oculo3.jpg
+                  },
+               
+
+               { id: 20,
+                nome: "Colar",
+                categoria: "Acessórios",
+                preco: 349,
+                descricao: "",
+                vendedor: "Goodlife Glamour",
+                telefone: "+258847791199",
+                bairro: "Muhala Expansão",
+                imagem: "colar.jpg
+               },{ id: 21,
+                nome: "Colar",
+                categoria: "Acessórios",
+                preco: 349,
+                descricao: "",
+                vendedor: "Goodlife Glamour",
+                telefone: "+258847791199",
+                bairro: "Muhala Expansão",
+                imagem: "colar1.jpg
+                 }
+
     );
 
     gerarCategorias();
