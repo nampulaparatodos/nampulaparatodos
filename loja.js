@@ -211,7 +211,8 @@
         });
   
 window.addEventListener('DOMContentLoaded', () => {
-    produtos.push({
+    produtos.push(
+       {
         id: 9,
         nome: "Bolo Caseiro",
         categoria: "Alimentos",
@@ -350,7 +351,6 @@ window.addEventListener('DOMContentLoaded', () => {
     imagem: "colar1.jpg"
   },
 );
-    );
 
     gerarCategorias();
     gerarProdutos(produtos);
