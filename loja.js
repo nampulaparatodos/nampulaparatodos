@@ -281,7 +281,8 @@ window.addEventListener('DOMContentLoaded', () => {
                 telefone: "+258847791199",
                 bairro: "Muhala Expansão",
                 imagem: "oculo.jpg"
-            },    { id: 16,
+            }, 
+                 { id: 16,
                 nome: "Óculos",
                 categoria: "Acessórios",
                 preco: 850,
@@ -290,7 +291,8 @@ window.addEventListener('DOMContentLoaded', () => {
                 telefone: "+258847791199",
                 bairro: "Muhala Expansão",
                 imagem: "oculo1.jpg 
-                  },{ id: 17,
+                  },
+              { id: 17,
                 nome: "Óculos",
                 categoria: "Acessórios",
                 preco: 850,
@@ -299,7 +301,8 @@ window.addEventListener('DOMContentLoaded', () => {
                 telefone: "+258847791199",
                 bairro: "Muhala Expansão",
                 imagem: "oculo2.jpg
-                    },
+                   
+              },
                 { id: 18,
                 nome: "Óculos",
                 categoria: "Acessórios",
@@ -309,7 +312,8 @@ window.addEventListener('DOMContentLoaded', () => {
                 telefone: "+258847791199",
                 bairro: "Muhala Expansão",
                 imagem: "oculo.jpg
-                },{ id: 19,
+                },
+              { id: 19,
                 nome: "Óculos",
                 categoria: "Acessórios",
                 preco: 850,
@@ -318,9 +322,7 @@ window.addEventListener('DOMContentLoaded', () => {
                 telefone: "+258847791199",
                 bairro: "Muhala Expansão",
                 imagem: "oculo3.jpg
-                  },
-               
-
+                 },
                { id: 20,
                 nome: "Colar",
                 categoria: "Acessórios",
@@ -330,7 +332,8 @@ window.addEventListener('DOMContentLoaded', () => {
                 telefone: "+258847791199",
                 bairro: "Muhala Expansão",
                 imagem: "colar.jpg
-               },{ id: 21,
+               },
+              { id: 21,
                 nome: "Colar",
                 categoria: "Acessórios",
                 preco: 349,
@@ -339,7 +342,7 @@ window.addEventListener('DOMContentLoaded', () => {
                 telefone: "+258847791199",
                 bairro: "Muhala Expansão",
                 imagem: "colar1.jpg
-                 }
+                 },
 
     );
 
