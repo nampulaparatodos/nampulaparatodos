@@ -348,7 +348,7 @@ window.addEventListener('DOMContentLoaded', () => {
     telefone: "+258847791199",
     bairro: "Muhala Expansão",
     imagem: "colar1.jpg"
-  }
+  },
 );
     );
 
